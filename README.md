@@ -62,8 +62,6 @@ Add the following line to your Cartfile:
 github "SwiftKickMobile/SwiftMessages"
 ````
 
-If the Carthage build fails, [try using the script](https://github.com/Carthage/Carthage/issues/3019).
-
 ### Manual
 
 1. Put SwiftMessages repo somewhere in your project directory.
@@ -376,6 +374,3 @@ If the view being presented adopts `BackgroundViewable`, SwiftMessages will igno
 ## About SwiftKick Mobile
 We build high quality apps! [Get in touch](http://www.swiftkickmobile.com) if you need help with a project.
 
-## License
-
-SwiftMessages is distributed under the MIT license. [See LICENSE](./LICENSE.md) for details.
